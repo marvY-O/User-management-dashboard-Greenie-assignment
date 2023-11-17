@@ -1,4 +1,4 @@
-# my-tabs-app
+# User management dashboard
 
 ## Project setup
 ```
