@@ -1,4 +1,4 @@
-![Screenshot from 2023-11-17 17-39-51](https://github.com/marvY-O/User-management-dashboard-Greenie-assignment/assets/34854345/71277688-263b-4de5-8f02-f6fcf16eba55)# User Management Dashboard
+# User Management Dashboard
 
 This web application is a User Management Dashboard featuring two tabs: User Details and Account Creation. It allows users to view user information, search for specific entries, and create new user accounts. The built project is hosted [here](https://github.com/marvY-O/user-dashboard-deployment) and deployment can be accessed [here](https://marvy-o.github.io/user-dashboard-deployment/)
 
