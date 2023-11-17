@@ -4,16 +4,11 @@ This web application is a User Management Dashboard featuring two tabs: User Det
 
 ## Table of Contents
 
-- [Documentaion](#requirements)
+- [Documentation](#documentation)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
-## Requirements
+## Documentation
 
 1. **User Details Tab:**
    - Fetched user data from a placeholder database.
